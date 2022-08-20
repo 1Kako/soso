@@ -127,4 +127,5 @@ h3 {
 }
 .payment-photo {
   display: flex;
+  align-items: center;
 }
