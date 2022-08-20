@@ -99,19 +99,6 @@ h3 {
 .last-section img {
   width: 100%;
 }
-/*last-section*/
-/*footer*/
-.footer-div h3 {
-  font-size: 24px;
-}
-.footer-div li {
-  font-size: 16px;
-}
-.footer-div {
-  display: flex;
-  justify-content: space-between;
-}
-
 .load-more-section {
   display: flex;
   justify-content: center;
@@ -123,4 +110,21 @@ h3 {
   color: white;
   text-decoration: none;
   border-radius: 4px;
+}
+/*last-section*/
+/*footer*/
+.footer-div h3 {
+  font-size: 24px;
+}
+.footer-div li {
+  font-size: 16px;
+  margin-top: 20px;
+  color: #7b7b7b;
+}
+.footer-div {
+  display: flex;
+  justify-content: space-between;
+}
+.payment-photo {
+  display: flex;
 }
